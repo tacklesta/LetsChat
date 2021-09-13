@@ -6,6 +6,6 @@ export const auth = firebase.initializeApp({
   authDomain: "letschat-34eb6.firebaseapp.com",
   projectId: "letschat-34eb6",
   storageBucket: "letschat-34ab6.appspot.com",
-  messagingSenderId: "106305743178396",
-  appId: "1:10630851343496:web:6f274d85fc10744534e9d9"
+  messagingSenderId: "136357463178396",
+  appId: "1:10630851343406:web:6f274d85fc10741534e9d9"
 }).auth();
